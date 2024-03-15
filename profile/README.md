@@ -6,6 +6,8 @@ Well.. I have absolutely no idea which one to choose. So if you're confused. Her
 \
 ✔️ [Record and stream](https://github.com/Git-Pikakid98/.github/edit/main/profile/README.md#record-and-stream)
 \
+✔️ [Contribute code](https://github.com/Git-Pikakid98/.github/edit/main/profile/README.md#contribute-code)
+\
 ➖ [Redistribute](https://github.com/Git-Pikakid98/.github/edit/main/profile/README.md#redistribute)
 \
 ❌ [Sell](https://github.com/Git-Pikakid98/.github/edit/main/profile/README.md#sell)
@@ -22,6 +24,9 @@ You have my full permission to fork my code. Granted, I request you to either le
 
 ### Record and stream
 If you choose to record or stream my games, programs etc. to your own viewers and wish to monetise the game, I have absolutely no issues. Please be aware that some of my games may contain content that may get you into trouble if played on stream due to it not being mine. But for anything I own, go right ahead.. Get that bread XD
+
+### Contribute code
+I'm not the kind of person to get butthurt over someone coding better than me. So if you would like to help me with my code or fix some massive bugs, I would appreciate you dropping a GitHub issue or a pull request
 
 ### Redistribute
 Only in the event that all official sources go down. You MUST also provide the unaltered source code WITH copyrights. Additionally. Unless explicitly stated, Assume that packaging my code with your games is forbidden. I **WILL** make exceptions to **SOME** programs and state it in it's own readme. If you have included a tool of mine within a game or have forked an existing game of mine, you MUST link back to the original source if possible. Do NOT include the source code within your download. PLEASe include a link back here in the event that you're using an outdated version. Additionally, if your game, tool etc that uses my code is open source, Please do not include any of my code within your project in the event that it's an entire program that you're using. Please add a little note to your readme that the reader requires a tool and link to it. Plus, adding pre-compiled binaries to source code is always iffy. The Exception to this is redistributing it with the intent of adding malware to it. Whether via a shady installer or by forking it
