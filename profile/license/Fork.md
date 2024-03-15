@@ -1,2 +1,2 @@
 ### Fork
-You have my full permission to fork my code. Granted, I request you to either leave my copyrights (if any) in tact and add a `[Forked by ###]` message. I will also accept `By ### [Original by Pikakid98]`. Even if it's just a little mention in a readme file
+You have my full permission to fork my code. Granted, I request you to either leave my copyrights (if any) in tact and add a `[Forked by ###]` message. I will also accept `By ### [Original by Pikakid98]`. Even if it's just a little mention in a readme file.
