@@ -1,8 +1,15 @@
-### Redistribute
+# Redistribute
 Only in the event that all official sources go down. You MUST also provide the unaltered source code WITH copyrights.
 
 Additionally. Unless explicitly stated, Assume that packaging my code with your games is forbidden. I **WILL** make exceptions to **SOME** programs and state it in it's own readme.
 
 If you have included a tool of mine within a game or have forked an existing game of mine, you MUST link back to the original source if possible. If redistributing my program (if expressly allowed) please do not include any of my code within your project in the event that it's an entire program that you're using to prevent outdated or broken code from breaking your program. Please add a little note to your readme that the reader requires a tool and link to it. Plus, adding pre-compiled binaries to source code is always iffy.
+
+An example:
+```
+# Building Requirements:
+[Name of program](https://github.com/owner/repo)
+
+```
 
 The exception to this is redistributing it with the intent of adding malware to it. Whether via a shady installer or by forking it
