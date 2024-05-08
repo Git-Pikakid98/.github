@@ -1,2 +1,0 @@
-# Contribute code
-I'm not the kind of person to get butthurt over someone coding better than me. So if you would like to help me with my code or fix some massive bugs, I would appreciate you dropping a GitHub issue or a pull request
